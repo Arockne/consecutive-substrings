@@ -62,3 +62,4 @@ module.exports = consecutiveSubstrings;
  * over the rest of the string. Each time we encounter a new character, we add it
  * onto the variable and then push the variable onto the array.
  * ****************************************************************************/
+
